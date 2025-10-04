@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616162766197",
+    "project_id": "yamekaku-beta",
+    "storage_bucket": "yamekaku-beta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616162766197:android:a004da13502f5fad3bf73c",
+        "android_client_info": {
+          "package_name": "com.example.yamekaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Bszcvf9vZPhaI1pMgkRVxFMA4I40u40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
